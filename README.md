@@ -15,8 +15,8 @@ In the project directory, you can run:
 Runs the app in the development mode.
 
 ## Run NODE_DEBUG=< file > for debugging the backend files.
-Run NODE_DEBUG=workers node index.js to see all logs from workers
-Run NODE_DEBUG=server node index.js to see all logs from server
+- Run NODE_DEBUG=workers node index.js to see all logs from workers
+- Run NODE_DEBUG=server node index.js to see all logs from server
 
 Open http://localhost:3000/api/v1/<route i.e user> to view and use in Postman.
 
