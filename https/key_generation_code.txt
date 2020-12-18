@@ -1,0 +1,4 @@
+# Code to generate SSL certificate
+# run below code on terminal in project directory 
+
+openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout key.pem -out cert.pem
