@@ -21,7 +21,7 @@ node index.js to view how this application works.
 - Run NODE_DEBUG=workers node index.js to see all logs from workers
 - Run NODE_DEBUG=server node index.js to see all logs from server
 
-Open http://localhost:3000/api/v1/<route i.e user> to view and use in Postman.
+Open http://localhost:3000/api/v1/user for example, to view and use in Postman.
 
 ## Make sure server is running 
 By running node index.js
