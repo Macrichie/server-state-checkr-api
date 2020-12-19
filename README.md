@@ -1,7 +1,7 @@
 # Server-Status-Checkr-API - v1
 - A complete server optimizer web API
 
-## About Utilitiware API - v1    
+## About Server-Status-Checkr-API - v1    
 This project was built using 100% Node.js built-in modules without importing any form of helpers from NPM.
 
 ## Clone this repo
